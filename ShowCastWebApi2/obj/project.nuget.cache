@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NVQpvQ3w+z9yycHDciB68Raxb3oNcfDVJQxBcOyC6hCHyG8T4tJoA/g2RYcbfr4gdkPSs+t82s4vmw/QZ+Ylw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uniqu\\source\\repos\\ShowCastWebApi2\\ShowCastWebApi2\\ShowCastWebApi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uniqu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

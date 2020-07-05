@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowCastWebApi2", "ShowCastWebApi2\ShowCastWebApi2.csproj", "{08DBF03A-A22A-4227-A4C7-DA42EE3D34CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DBF03A-A22A-4227-A4C7-DA42EE3D34CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DBF03A-A22A-4227-A4C7-DA42EE3D34CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DBF03A-A22A-4227-A4C7-DA42EE3D34CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DBF03A-A22A-4227-A4C7-DA42EE3D34CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9198E68C-E106-427A-873E-4D5A035B1FED}
+	EndGlobalSection
+EndGlobal
